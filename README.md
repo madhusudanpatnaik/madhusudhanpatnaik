@@ -1,7 +1,10 @@
 
 <h1 align="center">Hi there 👋 I'm Madhu sudan</h1>
 <br />
-- 👋 Hi, I’m @madhusudhanpatnaik
+[![Madhu sudan Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhu-sudan-sathujoda-02090b203/)
+[![Madhu sudan Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@madhusudanpatnaik)
+
+**Highlight About me**
 - 👀 I’m interested in Cyber Security and Ethical Hacking
 - 🌱 I’m currently learning Computer Networks
 - 💞️ I’m looking to collaborate on Projects 
