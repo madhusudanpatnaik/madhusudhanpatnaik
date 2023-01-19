@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi there 👋 I'm Madhu sudan</h1>
 <br />
+<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="400">
 [![Madhu sudan Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhu-sudan-sathujoda-02090b203/)
 [![Madhu sudan Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@madhusudanpatnaik)
-[![Scofield Idehen Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Scofield_Idehen)
 
 **Highlight About me**
 - 👀 I’m interested in Cyber Security and Ethical Hacking
